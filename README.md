@@ -40,4 +40,4 @@ The Pull request process works this way:
 1. The candidate forks the repository (should not clone it directly)
 2. Works on the code using the forked repository.
 3. Commits and push changes to the forked repository.
-4. Using the Bitbucket interface, send the pull request.
+4. Using the GitHub interface, send the pull request.
